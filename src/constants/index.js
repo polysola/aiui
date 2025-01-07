@@ -59,14 +59,14 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
-    url: "#signup",
+    title: "Telegram",
+    url: "https://t.me/XRPThinkAI_Portal",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
-    url: "#login",
+    title: "Buy Now",
+    url: "https://firstledger.net/",
     onlyMobile: true,
   },
 ];
