@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Generative AI made for creators."
-          text="Brainwave unlocks the potential of AI-powered applications"
+          text="XRPThink unlocks the potential of AI-powered applications"
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Smartest AI</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications
+                XRPThink unlocks the potential of AI-powered applications
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
@@ -88,11 +88,10 @@ const Services = () => {
                   {brainwaveServicesIcons.map((item, index) => (
                     <li
                       key={index}
-                      className={`rounded-2xl flex items-center justify-center ${
-                        index === 2
-                          ? "w-[3rem] h-[3rem] p-0.25 bg-conic-gradient md:w-[4.5rem] md:h-[4.5rem]"
-                          : "flex w-10 h-10 bg-n-6 md:w-15 md:h-15"
-                      }`}
+                      className={`rounded-2xl flex items-center justify-center ${index === 2
+                        ? "w-[3rem] h-[3rem] p-0.25 bg-conic-gradient md:w-[4.5rem] md:h-[4.5rem]"
+                        : "flex w-10 h-10 bg-n-6 md:w-15 md:h-15"
+                        }`}
                     >
                       <div
                         className={

@@ -305,7 +305,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://x.com/XRPThink_AI",
   },
   {
     id: "2",
@@ -317,7 +317,7 @@ export const socials = [
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://t.me/XRPThinkAI_Portal",
   },
   {
     id: "4",

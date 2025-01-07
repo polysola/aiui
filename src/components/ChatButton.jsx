@@ -8,7 +8,7 @@ const ChatButton = () => {
         <>
             <button
                 onClick={() => setIsModalOpen(true)}
-                className="fixed bottom-8 right-8 bg-purple-600 p-4 rounded-full shadow-lg hover:bg-purple-700 transition-colors"
+                className="fixed bottom-8 right-8 bg-purple-600 p-4 rounded-full shadow-lg hover:bg-purple-700 transition-colors z-[100000000000]"
             >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
