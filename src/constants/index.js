@@ -66,7 +66,7 @@ export const navigation = [
   {
     id: "5",
     title: "Buy Now",
-    url: "https://firstledger.net/",
+    url: "https://firstledger.net/token/rEJUC1cFvw3iZjRwjRaAEBRF23LT3bLGUs/5852505400000000000000000000000000000000/",
     onlyMobile: true,
   },
 ];

@@ -69,7 +69,7 @@ const Header = () => {
         >
           Telegram
         </a>
-        <Button className="hidden lg:flex" href="https://firstledger.net/">
+        <Button className="hidden lg:flex" href="https://firstledger.net/token/rEJUC1cFvw3iZjRwjRaAEBRF23LT3bLGUs/5852505400000000000000000000000000000000/">
           Buy Now
         </Button>
 
