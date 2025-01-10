@@ -60,13 +60,13 @@ export const navigation = [
   {
     id: "4",
     title: "Telegram",
-    url: "https://t.me/XRPThinkAI_Portal",
+    url: "https://t.me/XRPMind_Portal",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Buy Now",
-    url: "https://firstledger.net/token/rEJUC1cFvw3iZjRwjRaAEBRF23LT3bLGUs/5852505400000000000000000000000000000000/",
+    url: "https://firstledger.net",
     onlyMobile: true,
   },
 ];
@@ -305,7 +305,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "https://x.com/XRPThink_AI",
+    url: "https://x.com/XRPMind_AI",
   },
   {
     id: "2",
@@ -317,7 +317,7 @@ export const socials = [
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "https://t.me/XRPThinkAI_Portal",
+    url: "https://t.me/XRPMind_Portal",
   },
   {
     id: "4",
