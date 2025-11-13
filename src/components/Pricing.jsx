@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with XRPMind"
+          tag="Get started with TONThink"
           title="Pay once, use forever"
         />
 

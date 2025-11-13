@@ -60,7 +60,7 @@ export const navigation = [
   {
     id: "4",
     title: "Telegram",
-    url: "https://t.me/XRPMind_Portal",
+    url: "https://t.me/TONThink_Portal",
     onlyMobile: true,
   },
   {
@@ -305,7 +305,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "https://x.com/XRPMind_AI",
+    url: "https://x.com/TONThink_AI",
   },
   {
     id: "2",
@@ -317,7 +317,7 @@ export const socials = [
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "https://t.me/XRPMind_Portal",
+    url: "https://t.me/TONThink_Portal",
   },
   {
     id: "4",

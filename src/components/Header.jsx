@@ -64,7 +64,7 @@ const Header = () => {
         </nav>
 
         <a
-          href="https://t.me/XRPMind_Portal"
+          href="https://t.me/TONThink_Portal"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Telegram

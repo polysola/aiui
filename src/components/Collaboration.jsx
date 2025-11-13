@@ -43,7 +43,7 @@ const Collaboration = () => {
                     src={brainwaveSymbol}
                     width={48}
                     height={48}
-                    alt="XRPMind"
+                    alt="TONThink"
                   />
                 </div>
               </div>
