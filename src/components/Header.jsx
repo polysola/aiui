@@ -64,12 +64,12 @@ const Header = () => {
         </nav>
 
         <a
-          href="https://t.me/TONThink_Portal"
+          href="https://t.me/TonThinkAI_Channel"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Telegram
         </a>
-        <Button className="hidden lg:flex" href="https://firstledger.net/">
+        <Button className="hidden lg:flex" href="https://dedust.io/">
           Buy Now
         </Button>
 
