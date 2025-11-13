@@ -69,7 +69,7 @@ const Header = () => {
         >
           Telegram
         </a>
-        <Button className="hidden lg:flex" href="https://dedust.io/">
+        <Button className="hidden lg:flex" href="https://dedust.io/swap/TON/EQCMTEeQcRm0XsaMa1gz7Vv-CFMrsyEPqtl55cTYO34CVAdA">
           Buy Now
         </Button>
 
